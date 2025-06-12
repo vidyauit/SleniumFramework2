@@ -84,6 +84,10 @@ public class BrokenLinks {
 	      a.assertAll();
          
 		}
+	
+	public void getcurrentUrl() {
+		driver.getCurrentUrl();
+	}
 	}
 	
 	
